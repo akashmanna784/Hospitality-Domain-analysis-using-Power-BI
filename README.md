@@ -61,4 +61,4 @@ The dashboard provides several benefits:
 
 **Snapshot of Dashboard**
 
-![image]([https://github.com/user-attachments/assets/2712b175-6e15-47d6-8952-7a68bd0b370a](https://github.com/akashmanna784/Hospitality-Domain-analysis-using-Power-BI/blob/main/Screenshot%202025-12-17%20164345.png))
+![image](https://github.com/akashmanna784/Hospitality-Domain-analysis-using-Power-BI/blob/main/Screenshot%202025-12-17%20164345.png)
